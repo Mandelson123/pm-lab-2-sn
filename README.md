@@ -10,7 +10,7 @@ Data: 30.11.2020 r.
 
 Imię i nazwisko studenta: Mateusz Mandelski 
 Numer albumu: 72538 
-Grupa studencka: WELE18DX1S1
+Grupa studencka: WEL18DX1S1
 
 # Pytania do zadań z instrukcji
 
