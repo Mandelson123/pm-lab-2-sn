@@ -13,4 +13,6 @@ Numer albumu: 72538
 Grupa studencka: WEL18DX1S1
 
 # Pytania do zadań z instrukcji
-
+W jaki sposób można określić czas trwania
+opóźnienia zrealizowanego z użyciem pętli?
+Można określić czas trwania opóźnienia funkcją delay
